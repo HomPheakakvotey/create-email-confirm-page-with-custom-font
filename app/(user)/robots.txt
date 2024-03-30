@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow:/Dashboard
+Sitemap: https://ecommerce-website-sooty-nine.vercel.app/sitemap.xml

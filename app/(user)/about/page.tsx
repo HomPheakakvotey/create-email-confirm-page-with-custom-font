@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   openGraph:{
     title: "About Us",
     description: "About Us",
-    images:"https://imgs.search.brave.com/XMnNObJZzHnZuYTAhMVgpaMH0uD7LSKI-uIbHCrZ8W4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtcGxhdGZvcm0u/OTlzdGF0aWMuY29t/Ly81WTNJbllwVVV6/YTE0U25fMDRrWEJL/cTE4b1E9Lzc0OHgy/MzY2OjEyNTF4Mjg2/OS9maXQtaW4vNTAw/eDUwMC85OWRlc2ln/bnMtY29udGVzdHMt/YXR0YWNobWVudHMv/MTIwLzEyMDgyMC9h/dHRhY2htZW50XzEy/MDgyMDg4Ng"
+    images:"https://i.pinimg.com/564x/cc/f2/c4/ccf2c423b38ac5d7050c8f72310a0e53.jpg"
   },
 }
 export default function page() {

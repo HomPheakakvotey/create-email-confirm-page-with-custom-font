@@ -38,4 +38,3 @@ const getData=async(id:string)=>{
    )
 }
 
-// "https://imgs.search.brave.com/bVggFXOuk9Uz6x__RJgvWLVRssSROI43dGl9LPdnzrU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA1/MzMvMjA4OS9maWxl/cy9wbGFjZWhvbGRl/ci1pbWFnZXMtaW1h/Z2VfbGFyZ2UucG5n/P2Zvcm1hdD1qcGcm/cXVhbGl0eT05MCZ2/PTE1MzAxMjkwODE"
